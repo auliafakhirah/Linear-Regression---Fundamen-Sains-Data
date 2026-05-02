@@ -1,3 +1,3 @@
-# Linear-Regression---Fundamen-Sains-Data
+# Fundamen-Sains-Data
 - Aulia Fakhirah Hendraini
 - Maulidya Iftitah
